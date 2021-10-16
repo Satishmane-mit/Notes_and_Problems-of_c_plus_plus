@@ -8,5 +8,5 @@ int main(){
         cin>>n;
     }
     while(n>0);
-    cout<<"Enter a valid Positive Number.....\n";
+    cout<<"Enter a valid Positive Number..............\n";
 }
